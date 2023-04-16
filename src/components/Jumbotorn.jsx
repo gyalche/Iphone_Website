@@ -1,6 +1,7 @@
 import React from 'react';
 import Icon from '../assets/images/iphone-14.jpg';
 import HoldingIphone from '../assets/images/iphone-hand.png';
+
 const Jumbotorn = () => {
   const handleMore = () => {
     const element = document.querySelector('.sound-section');
